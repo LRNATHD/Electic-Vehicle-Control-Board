@@ -4325,7 +4325,7 @@
 	)
 	(global_label "XI"
 		(shape input)
-		(at 210.82 46.99 90)
+		(at 208.28 46.99 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4335,7 +4335,7 @@
 		)
 		(uuid "06a56ad7-1f95-4b13-be5a-db56e956de2d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.82 42.1905 90)
+			(at 208.28 42.1905 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5623,7 +5623,7 @@
 	)
 	(global_label "XO"
 		(shape input)
-		(at 208.28 46.99 90)
+		(at 210.82 46.99 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5633,7 +5633,7 @@
 		)
 		(uuid "b6e9311b-77ce-4830-9edd-ea11156012b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 208.28 41.4648 90)
+			(at 210.82 41.4648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
